@@ -15,4 +15,4 @@ or open an issue for this project.
 
 ## License
 
-SFSymbols is released under the MIT license. [See LICENSE](https://github.com/Nirma/SFSymbol/blob/master/LICENSE) for details.
+SFSymbols is released under the MIT license. [See LICENSE](https://github.com/Rspoon3/SFSymbolCreator/blob/main/LICENSE) for details.
